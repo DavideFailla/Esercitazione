@@ -1,4 +1,4 @@
-public class DVD extends Prodotti{
+public class DVD extends Prodotto {
     private String titolo;
     private String categoria;
     private double peso;

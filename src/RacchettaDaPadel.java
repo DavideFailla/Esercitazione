@@ -1,4 +1,4 @@
-public class RacchettaDaPadel extends Prodotti{
+public class RacchettaDaPadel extends Prodotto {
     private String marca;
     private double peso;
     private double costo;

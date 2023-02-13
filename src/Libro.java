@@ -1,4 +1,4 @@
-public class Libro extends Prodotti {
+public class Libro extends Prodotto {
     private String ISBN;
     private String titolo;
     private String categoria;
